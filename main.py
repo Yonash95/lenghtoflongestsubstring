@@ -13,5 +13,5 @@ def longestSubstring(string1):
     return maxlen
 
 
-line = input("Podaj ciąg znaków: ")
+line = input("Podaj ciąg znaków:")
 print(longestSubstring(line))
