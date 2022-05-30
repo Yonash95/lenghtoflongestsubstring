@@ -13,5 +13,5 @@ def longestSubstring(string1):
     return maxlen
 
 
-line = input("Podaj ciąg znaków:")
-print(longestSubstring(line))
+line = input("Podaj ciąg znaków: ")
+print("Longest substring is ", longestSubstring(line), " characters long")
